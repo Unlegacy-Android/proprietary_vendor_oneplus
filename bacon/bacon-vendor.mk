@@ -262,3 +262,7 @@ PRODUCT_PACKAGES += \
     shutdownlistener \
     qcrilmsgtunnel
 endif
+
+VENDOR_QCOM_PATH := vendor/qcom
+
+$(call inherit-product-if-exists, $(VENDOR_QCOM_PATH)/bluetooth/bluetooth-vendor.mk)
