@@ -240,6 +240,7 @@ PRODUCT_COPY_FILES += \
     vendor/oneplus/bacon/proprietary/vendor/lib/libwvm.so:system/vendor/lib/libwvm.so \
     vendor/oneplus/bacon/proprietary/vendor/lib/libxml.so:system/vendor/lib/libxml.so \
     vendor/oneplus/bacon/proprietary/vendor/lib/mediadrm/libwvdrmengine.so:system/vendor/lib/mediadrm/libwvdrmengine.so \
+    vendor/oneplus/bacon/proprietary/vendor/lib/soundfx/libspeakerbundle.so:system/vendor/lib/soundfx/libspeakerbundle.so \
     vendor/oneplus/bacon/proprietary/vendor/lib/soundfx/libqcbassboost.so:system/vendor/lib/soundfx/libqcbassboost.so \
     vendor/oneplus/bacon/proprietary/vendor/lib/soundfx/libqcreverb.so:system/vendor/lib/soundfx/libqcreverb.so \
     vendor/oneplus/bacon/proprietary/vendor/lib/soundfx/libqcvirt.so:system/vendor/lib/soundfx/libqcvirt.so
